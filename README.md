@@ -4,7 +4,7 @@ I'm Taha. I develop projects on the web and improve myself.
 
 Contact me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-y%C4%B1ld%C4%B1r%C4%B1m/)
+<a href="https://www.linkedin.com/in/taha-y%C4%B1ld%C4%B1r%C4%B1m/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/taha-y%C4%B1ld%C4%B1r%C4%B1m/" height="30" width="40" /></a>
 
 
 ## Technologies & Languages

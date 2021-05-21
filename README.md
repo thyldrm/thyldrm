@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Taha. I develop projects on the web and improve myself.
+I'm Taha. I develop projects on the web and improve myself
 
 Contact me
 
